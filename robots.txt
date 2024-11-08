@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yansonghu-lele.github.io/al-folio/sitemap.xml
+Sitemap: https://yansonghu-lele.github.io/sitemap.xml
