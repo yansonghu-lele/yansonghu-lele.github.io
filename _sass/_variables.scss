@@ -29,8 +29,8 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #F6F7F8 !default;
+$black-color: #011638 !default;
 
 // Theme colors
 
@@ -44,13 +44,11 @@ $fa-font-path: "../webfonts";
 $ti-font-path: "../fonts";
 
 // new colours
-$oxford-blue: #011638 !default;
 $charcoal: #364156 !default;
 $folly: #FF3366 !default;
 $engineering-orange: #C20114 !default;
 $folly-light: rgba($folly, 0.05);
 $light-sea-green: #2EC4B6 !default;
-$seasalt: #F6F7F8 !default;
 $dim-gray: #6D7275 !default;
 $dim-gray-light: color.adjust($dim-gray, $lightness: 40%);
 
