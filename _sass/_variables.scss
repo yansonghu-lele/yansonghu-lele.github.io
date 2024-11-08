@@ -43,6 +43,17 @@ $fa-font-path: "../webfonts";
 // Tabler icons location
 $ti-font-path: "../fonts";
 
+// new colours
+$oxford-blue: #011638 !default;
+$charcoal: #364156 !default;
+$folly: #FF3366 !default;
+$engineering-orange: #C20114 !default;
+$folly-light: rgba($folly, 0.05);
+$light-sea-green: #2EC4B6 !default;
+$seasalt: #F6F7F8 !default;
+$dim-gray: #6D7275 !default;
+$dim-gray-light: color.adjust($dim-gray, $lightness: 40%);
+
 // Back To Top button config
 $back-to-top-z-index: 10;
 $back-to-top-bottom: 30px;
