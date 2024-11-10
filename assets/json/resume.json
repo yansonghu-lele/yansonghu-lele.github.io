@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Yan Song Hu",
-    "label": "Roboticist",
     "image": "",
     "email": "y324hu@uwaterloo.ca",
     "phone": "(647)-921-3164",
@@ -14,39 +13,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Magna Electronics Vision Center, Brampton, Ontario",
+      "position": "Software Engineering Assistant (Co-op)",
+      "startDate": "2019-06-01",
+      "endDate": "2020-09-01"
     }
   ],
   "education": [
     {
       "institution": "University of Waterloo",
       "studyType": "Master of Applied Science (MASc) in Systems Design Engineering",
-      "startDate": "September 2022",
-      "endDate": "December 2024"
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-31"
     },
     {
       "institution": "McMaster University ",
       "studyType": "Bachelor of Engineering with Co-op, Mechatronics with a Mathematics Minor & Business Minor",
-      "startDate": "September 2016",
-      "endDate": "April 2022"
+      "startDate": "2016-09-01",
+      "endDate": "2022-04-30"
     }
   ],
   "awards": [
@@ -61,45 +45,8 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "https://www.coursera.org"
     }
   ],
   "publications": [
@@ -146,29 +93,6 @@
       "fluency": "Native speaker",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
+  
 }
