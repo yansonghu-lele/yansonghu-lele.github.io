@@ -74,30 +74,30 @@
   "publications": [
     {
       "name": "MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting",
-      "status": "Under Review",
+      "summary": "Under Review",
       "publisher": "International Conference on Robotics and Automation (ICRA)",
       "releaseDate": "NA",
       "url": "https://arxiv.org/abs/2409.13055"
     },
     {
       "name": "SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection",
-      "status": "Presented as Poster",
+      "summary": "Presented as Poster",
       "publisher": "SplatPose+: Real Time Image-Based Pose-Agnostic 3D Anomaly Detection 2024 European Conference on Computer Vision (ECCV) VISION Workshop",
-      "releaseDate": "NA",
+      "releaseDate": "October 2024",
       "url": "https://arxiv.org/abs/2410.12080"
     },
     {
       "name": "Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM",
-      "status": "Presented as Poster",
+      "summary": "Presented as Poster",
       "publisher": "IEEE ICRA@40",
-      "releaseDate": "NA",
+      "releaseDate": "September 2024",
       "url": "https://arxiv.org/abs/2408.03825"
     },
     {
       "name": "Integrating Inertial Data to a Hybrid Direct-Indirect Visual SLAM System",
-      "status": "Presented at Conference",
-      "publisher": "CVIS",
-      "releaseDate": "NA",
+      "summary": "Presented at Conference",
+      "publisher": "9th Annual Conference on Vision and Intelligent Systems (CVIS)",
+      "releaseDate": "2023",
       "url": "https://openjournals.uwaterloo.ca/index.php/vsl/article/view/5868"
     }
   ],
