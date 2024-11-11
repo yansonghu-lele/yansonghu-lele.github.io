@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Monocular GSO
-description: with background image
+description: Real-time Volumetric SLAM
 img: assets/img/o3.gif
 importance: 1
 category: work
