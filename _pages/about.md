@@ -19,3 +19,5 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a Master’s student in the Systems Design Engineering faculty at the University of Waterloo. Prior to this, I completed my Bachelor's in Mechatronics Engineering at McMaster University, complemented by minors in mathematics and business. I'm doing  research in Spatial AI and simultaneous localization and mapping (SLAM) at the Vision ans Image Processing Lab (VIP) under the guidance of Professor John Zelek.
+
+I am driven by a vision of the future where autonomous robots are capable of enhancing our lives. To realize this future, robots must navigate and interact with their environment as well as humans, which is why my work focuses on real-time spatial perception and navigation of robots in complex environments.
