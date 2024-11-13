@@ -10,7 +10,7 @@ giscus_comments: true
 
 Capstone project for Undergraduate program at McMaster University.
 
-Robotic chessboard that detects moves and moves pieces in response. 
+Robotic chessboard that detects moves and moves pieces in response.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
