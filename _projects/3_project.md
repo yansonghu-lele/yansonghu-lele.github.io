@@ -2,16 +2,16 @@
 layout: page
 title: Reach-Coreach
 description: Work done as USRA
-img:
+img: assets/img/McSert.png
 importance: 3
 category: work
 ---
 
 I helped develop software as a USRA at the McMaster Centre for Software Certification (McSCert).
 
-The github for the software I worked on can be found here: https://github.com/McSCert/Reach-Coreach
+The github for the software I worked on can be found here: [Reach-Coreach](https://github.com/McSCert/Reach-Coreach)
 
-I also helped develop additional tools found here: https://github.com/McSCert/Simulink-Utility
+I also helped develop additional tools found here: [Simulink-Utility](https://github.com/McSCert/Simulink-Utility)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

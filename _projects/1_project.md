@@ -14,7 +14,7 @@ M-GSO is a real-time volumetric dense simultaneous localization and mapping syst
 
 DSO is currently under review for the 2025 IEEE International Conference on Robotics and Automation (ICRA)
 
-Preprint avalaible at https://arxiv.org/abs/2409.13055 {% cite hu2024mgsomonocularrealtimephotometric %}
+Preprint avalaible at [MGSO](https://arxiv.org/abs/2409.13055) {% cite hu2024mgsomonocularrealtimephotometric %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
